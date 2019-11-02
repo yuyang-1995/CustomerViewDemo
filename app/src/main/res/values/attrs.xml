@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--自定义View 属性-->
+    <declare-styleable name="MyView">
+        <attr name="color" format="color"></attr>
+        <attr name="line_width" format="dimension"></attr>
+        <attr name="radius" format="dimension"></attr>
+        <attr name="pg"     format="integer" ></attr>
+
+    </declare-styleable>
+
+</resources>
